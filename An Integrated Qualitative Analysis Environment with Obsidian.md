@@ -23,7 +23,7 @@ Second, find the folder in called "codes". In your new Obsidian vault, go to `Pr
 ### Coding the data
 Open the first data point—the file in the "data points" folder named "1". 
 
-Below the text data, add a footer. You could use a heading (e.g., `## Coding`). I just left a couple of new lines between the data itself and where I was putting the codes (see the screenshot). In this footer, you will simply list each of the themes you identify in the data point.
+Below the text data, add a footer. You could use a heading (e.g., `## Coding`). I just left a couple of new lines between the data itself and where I was putting the codes. In this footer, you will simply list each of the themes you identify in the data point.
 
 Review the data. What does it say? What's interesting about it? How might it help you answer your research question(s)? Think of the answers to these questions as themes: they are the interesting takeaways relevant to this piece of data. In the footer, write out these themes.
 
