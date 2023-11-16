@@ -2,7 +2,7 @@
 
 ![13c5a16a-c509-4554-ac86-293bc0eb441c](https://user-images.githubusercontent.com/3618647/129074558-65de7de2-a0df-4a7f-bc00-97b806409f70.png)
 
-This environment supports qualitative analysis of text (and potentially other media) with [Obsidian](https://obsidian.md). It is an example of an [Integrated Thinking Environment](https://axle.design/obsidian-roam-and-the-rise-of-integrated-thinking-environments—what-they-are-what-they-do-and-what-s).
+This environment supports qualitative analysis of text (and potentially other media) with [Obsidian](https://obsidian.md). It is an example of an [Integrated Thinking Environment](https://fulcra.design/Posts/Obsidian-Roam-and-the-rise-of-Integrated-Thinking-Environments/).
 
 To learn more, read the [blog post](https://axle.design/an-integrated-qualitative-analysis-environment-with-obsidian).
 
